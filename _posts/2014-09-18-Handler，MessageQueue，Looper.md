@@ -1,4 +1,3 @@
-﻿---
 layout: post
 title:  "Handler，MessageQueue，Looper"
 date:   2014-09-18 16:14:09 +0800
